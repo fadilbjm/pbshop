@@ -20,10 +20,42 @@
               <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                   
               </ul>
-              <a name="login" id="login" class="btn btn-primary" href="#" role="button">Masuk/daftar</a>
+              <a name="login" id="login" class="btn btn-success" href="#" role="button">Masuk/daftar</a>
           </div>
       </nav>
+<div class="container">
+    <div class="row">
+        
+        <div class="col-lg-9">
+            <div class="jumbotron">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th></th>
+                            <th colspan='2'></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td scope="row">j</td>
+                            <td>j</td>
+                            <td>j</td>
+                            <td>jds</td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
 
+
+            </div>
+        </div>
+
+
+
+    </div>
+
+</div>
 
 
       <!-- <?php
