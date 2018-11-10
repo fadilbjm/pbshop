@@ -12,6 +12,8 @@ class Home extends CI_Controller {
         
     }
 
+    
+
 }
 
 /* End of file Home.php */
