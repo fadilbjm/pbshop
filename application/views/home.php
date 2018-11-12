@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Powerbank</title>
+    <title>Online Shop Kalsel</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -11,7 +11,7 @@
   </head>
   <body>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-          <a class="navbar-brand" href="#">PowerBank Kalsel</a>
+          <a class="navbar-brand" href="#">Online Shop Kalsel</a>
           <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
               aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -20,7 +20,7 @@
               <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                   
               </ul>
-              <a name="login" id="login" class="btn btn-success" href="#" role="button">Masuk/daftar</a>
+              <a name="login" id="login" class="text-light" href="#"><u>Masuk/daftar</u></a>
           </div>
       </nav>
 <div class="container">
