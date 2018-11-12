@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
   </head>
@@ -35,7 +35,7 @@
                             <th></th>
                             <th colspan='2'></th>
                         </tr>
-                        
+
                     </thead>
                     <tbody>
                         <?php
@@ -45,7 +45,7 @@
                 <td>$a->gambar</td>
                 <td>$a->nama_produk</td>
                 <td>$a->harga</td>
-                <td>".anchor(base_url('home/cart'), '<button class="btn btn-success"><i class="fas fa-shopping-basket"></i>Beli</button>', 'attributes');"</td>
+                <td>".anchor(base_url('home/cart'), '<button class="btn btn-success"><i class="fas fa-shopping-cart    "></i> Beli</button>', 'attributes');"</td>
             </tr>";
         }
     }else{
